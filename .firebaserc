@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "crud-todo-list-392c9": {
+      "hosting": {
+        "app": [
+          "crud-todo-list-392c9"
+        ]
+      }
+    }
+  }
+}
